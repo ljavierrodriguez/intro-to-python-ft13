@@ -17,3 +17,6 @@ elif condition:
     pass
 else:
     pass
+
+# Operador ternario
+mayor = True if edad > 18 else False

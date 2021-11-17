@@ -19,3 +19,5 @@ if(condition){
 } else {
 
 }
+
+let mayor = edad > 18 ? true : false;
